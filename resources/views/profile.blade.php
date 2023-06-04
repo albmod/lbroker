@@ -104,7 +104,7 @@
                                         <img src="{{asset('assets/images/avatars/boto.png')}}">
                                         <div class="post-info">
                                             <span class="post-author">RoBoto Reports</span><br>
-                                            <span class="post-date">3hrs</span>
+                                            <span class="post-date">4hrs</span>
                                         </div>
                                         <div class="post-header-actions">
                                             <a href="#"><i class="material-icons">more_horiz</i></a>
