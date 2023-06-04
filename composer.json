@@ -11,7 +11,8 @@
         "laravel/passport": "^11.5",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
-        "laravel/ui": "^4.2"
+        "laravel/ui": "^4.2",
+        "mcamara/laravel-localization": "^1.8"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
@@ -27,7 +28,10 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
-        }
+        },
+        "files": [
+            "app/helpers/general.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
